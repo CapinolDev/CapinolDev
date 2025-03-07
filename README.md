@@ -1,0 +1,2 @@
+- i like chess, geometry dash, karate, golang, and dutch 🇳🇱
+- i hate german
