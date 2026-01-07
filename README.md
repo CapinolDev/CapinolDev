@@ -1,4 +1,4 @@
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapinolDev&layout=compact)
+![My Metrics](https://github.com/CapinolDev/CapinolDev/blob/main/github-metrics.svg)
 
  i like chess, geometry dash, fortran, and dutch 🇳🇱
